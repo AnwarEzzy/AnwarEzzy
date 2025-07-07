@@ -21,7 +21,7 @@ Here are some of my recent and notable projects:
 ### 🏨 Hotel Reservation Management Platform  
 📅 *04/2025 – 06/2025*  
 A full-featured platform for hotel search, room booking, and admin control.  
-**Tech used:** Django, MySQL  
+**Tech used:** ***Django, MySQL*** 
 🔗 [View project](https://github.com/AnwarEzzy/Hotel-management-app)
 
 ---
@@ -29,14 +29,14 @@ A full-featured platform for hotel search, room booking, and admin control.
 ### 💱 Currency Converter  
 📅 *02/2024*  
 A real-time currency converter using live exchange rates with a reactive UI.  
-**Tech used:** React.js
+**Tech used:** ***React.js***
 
 ---
 
 ### 🧹 Home Services Booking Platform  
 📅 *04/2024 – 06/2024*  
 An intuitive web app for booking home services like gardening, cleaning, and repairs.  
-**Tech used:** React.js, Laravel
+**Tech used:** ***React.js, Laravel***
 🔗 [View project](https://github.com/AnwarEzzy/home-services-app)
 
 ---
@@ -44,7 +44,7 @@ An intuitive web app for booking home services like gardening, cleaning, and rep
 ### 🧩 Language Translation Game  
 📅 *05/2023*  
 An interactive app that helps users learn and practice vocabulary in different languages.  
-**Tech used:** HTML, CSS, JavaScript, jQuery
+**Tech used:** ***HTML, CSS, JavaScript, jQuery***
 
 ---
 
@@ -106,9 +106,8 @@ An interactive app that helps users learn and practice vocabulary in different l
 
 ## 🌐 Let's Connect
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🌍 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 📧 Email: [your.email@example.com](mailto:anwarezzirani224@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/anwar-ezzirani)  
 
 ---
 
