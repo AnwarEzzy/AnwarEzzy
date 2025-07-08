@@ -10,7 +10,7 @@
     <tr>
       <td>
         <a href="https://t.me/votre_username">
-          <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=telegram&logoColor=white" width="50" height="50"/>
+          <img src="https://img.shields.io/badge/-FF0080?style=logo=telegram&logoColor=4F2CE9" width="50" height="50"/>
         </a>
       </td>
       <td>
