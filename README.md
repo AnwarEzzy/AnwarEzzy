@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anwar</h1>
+<p align="center">
+  <strong><span style="font-size: 20px; font-family: Fira Code; color: #F74292;">Anwar Ezzirani</span></strong>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F74292&center=true&width=435&lines=I'm+a+Software+Engineering+Student;Full-Stack++Web+Developer;Always+Learning+New+Things;Open+to+Freelance%2C+Internship%2C+Work" alt="Typing SVG" />
 </p>
