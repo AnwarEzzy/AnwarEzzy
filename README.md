@@ -10,7 +10,7 @@
     <tr>
       <td>
         <a href="">
-          <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/tele-icon.png" width="400">
+          <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/tele-icon.png" width="50">
         </a>
       </td>
       <td>
