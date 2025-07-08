@@ -8,10 +8,10 @@
 
  <p align="center">
   <a href="" title="Contact me on Email"><img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/tele-icon.png" width="50"></a> &#8287; &#8287; &#8287;
-  <a href="https://www.instagram.com/anwar_ezzi"><img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/instagram-icon.png" width="50"></a> &#8287; &#8287; &#8287;
-  <a href=https://discord.gg/4WFDTpHDtw"><img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/discord-icon.png" width="50"></a> &#8287; &#8287; &#8287;
-  <a href="https://linkedin.com/in/anwar-ezzirani"><img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/linkedin-icon.png" width="50"></a> &#8287; &#8287; &#8287;
-  <a href="https://x.com/AEzzirani"><img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/x-icon.png" width="50"></a>
+  <a href="https://www.instagram.com/anwar_ezzi" title="Follow me on Instagram"><img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/instagram-icon.png" width="50"></a> &#8287; &#8287; &#8287;
+  <a href="https://discord.gg/4WFDTpHDtw" title="Join me on discord"><img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/discord-icon.png" width="50"></a> &#8287; &#8287; &#8287;
+  <a href="https://linkedin.com/in/anwar-ezzirani" title="Connect with me on Linkedin"><img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/linkedin-icon.png" width="50"></a> &#8287; &#8287; &#8287;
+  <a href="https://x.com/AEzzirani" title="Follow me on X"><img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/x-icon.png" width="50"></a>
 </p>
 
 <p align="center">
