@@ -1,11 +1,8 @@
 <!-- Nom animé (1 seule fois) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1500&color=25EB44&center=true&repeat=false&width=449&lines=Anwar+Ezzirani" alt="Typing SVG" />
-</p>
-
-<!-- Nom fixe qui reste affiché -->
-<p align="center">
-  <strong><span style="font-size: 24px; color: #25EB44; font-family: 'Fira Code';">Anwar Ezzirani</span></strong>
+  <span style="font-family: 'Fira Code', monospace; font-weight: 500; font-size: 30px; color: #25EB44;">
+    Anwar Ezzirani
+  </span>
 </p>
 
 <!-- Texte animé -->
