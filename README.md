@@ -1,8 +1,19 @@
 <!-- Nom animé (1 seule fois) -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x100/transparent/4F2CE9?text=Anwar+Ezzirani&font=Fira+Code&size=40&color=ffffff" alt="Anwar Ezzirani" />
-</p>
-
+<html>
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap');
+        .freelance-text {
+            font-family: 'Fira Code', monospace;
+            font-size: 40px;
+            color: #4F2CE9;
+        }
+    </style>
+</head>
+<body>
+    <div class="freelance-text">Open to Freelance, [Votre Prénom] [Votre Nom]</div>
+</body>
+</html>
 <!-- Texte animé -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4F2CE9&center=true&width=435&lines=Hello+There;I'm+a+Software+Engineering+Student;Full-Stack++Web+Developer;Always+Learning+New+Technologies;Open+to+Freelance%2C+Internship%2C+Work" alt="Typing SVG" />
