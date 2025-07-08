@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anwar</h1>
 <p align="center">
-  💻 Full-Stack Developer • ![Morocco](https://flagcdn.com/w40/ma.png) • 🚀 Passionate About Web & AI
+  💻 Full-Stack Developer • Morocco <img src="https://flagcdn.com/w40/ma.png" alt="Morocco" width="25"/> • 🚀 Passionate About Web & AI
 </p>
 
 ---
