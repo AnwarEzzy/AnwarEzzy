@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4F2CE9&center=true&width=435&lines=Hello+There;I'm+a+Software+Engineering+Student;Full-Stack++Web+Developer;Always+Learning+New+Technologies;Open+to+Freelance%2C+Internship%2C+Work" alt="Typing SVG" />
 </p>
 
-  <div align="center">
+  <div align="center" style="display: flex; justify-content: center; gap: 50px;">
   <a href="" target="_blank" style="margin: 0 30px;">
     <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/tele-icon.png" width="50" alt="Contact me an email">
   </a>
