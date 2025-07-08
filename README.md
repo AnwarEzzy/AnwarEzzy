@@ -5,23 +5,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4F2CE9&center=true&width=435&lines=Hello+There;I'm+a+Software+Engineering+Student;Full-Stack++Web+Developer;Always+Learning+New+Technologies;Open+to+Freelance%2C+Internship%2C+Work" alt="Typing SVG" />
 </p>
 
-  <div align="center" style="display: flex; justify-content: center; gap: 50px;">
-  <a href="" target="_blank">
+ <p align="center">
+  <a href="[Lien-Telegram]" target="_blank" style="margin: 0 25px;">
     <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/tele-icon.png" width="50" alt="Contact me an email">
   </a>
-  <a href="[Lien-Instagram]" target="_blank">
+  <a href="[Lien-Instagram]" target="_blank" style="margin: 0 25px;">
     <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/instagram-icon.png" width="50" alt="Follow me on Instagram">
   </a>
-  <a href="[Lien-Discord]" target="_blank">
+  <a href="[Lien-Discord]" target="_blank" style="margin: 0 25px;">
     <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/discord-icon.png" width="50" alt="Join me on Discord">
   </a>
-  <a href="[Lien-LinkedIn]" target="_blank">
+  <a href="[Lien-LinkedIn]" target="_blank" style="margin: 0 25px;">
     <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/linkedin-icon.png" width="50" alt="Connect with me">
   </a>
-  <a href="[Lien-Twitter]" target="_blank">
+  <a href="[Lien-Twitter]" target="_blank" style="margin: 0 25px;">
     <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/x-icon.png" width="50" alt="Follow me on twitter">
   </a>
-</div>
+</p>
 
 <p align="center">
   💻 Full-Stack Developer • <img src="https://flagcdn.com/w40/ma.png" alt="Morocco" width="25"/> Morocco • 🚀 Passionate About Web & AI
