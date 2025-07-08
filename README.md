@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><span style="font-size: 20px; font-family: Fira Code; color: #F74292;">Anwar Ezzirani</span></strong>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=975&color=F74292&center=true&repeat=false&width=449&lines=Anwar+Ezzirani" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F74292&center=true&width=435&lines=I'm+a+Software+Engineering+Student;Full-Stack++Web+Developer;Always+Learning+New+Things;Open+to+Freelance%2C+Internship%2C+Work" alt="Typing SVG" />
