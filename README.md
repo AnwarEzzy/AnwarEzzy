@@ -1,6 +1,6 @@
 <!-- Nom animé (1 seule fois) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ANWAR_EZZIRANI-%234F2CE9?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&fontSize=40" alt="Nom" />
+  <img src="https://via.placeholder.com/800x100/transparent/4F2CE9?text=Anwar+Ezzirani&font=Fira+Code&size=40&color=ffffff" alt="Anwar Ezzirani" />
 </p>
 
 <!-- Texte animé -->
