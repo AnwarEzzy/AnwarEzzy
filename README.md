@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anwar Ezzirani</h1>
+<h1 align="center">Hi 👋, I'm Anwar</h1>
 <p align="center">
   💻 Full-Stack Developer • 🌍 Based in Morocco • 🚀 Passionate About Web & AI
 </p>
@@ -10,7 +10,7 @@
 - 🎓 I'm a software engineering student
 - 🔭 Currently working on multiple web development projects
 - 🌱 Planning to specialize in **AI and Data Science** in the next academic year.
-- 💼 Open to freelance, internship, and collaboration opportunities
+- 💼 Open to freelance, internship, work, and collaboration opportunities
 
 ---
 
@@ -106,8 +106,8 @@ An interactive app that helps users learn and practice vocabulary in different l
 
 ## 🌐 Let's Connect
 
-- 📧 Email: [your.email@example.com](mailto:anwarezzirani224@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/anwar-ezzirani)  
+- 📧 Email: [anwarezzirani224@gmail.com](mailto:anwarezzirani224@gmail.com)  
+- 💼 LinkedIn: [Click here](www.linkedin.com/in/anwar-ezzirani)  
 
 ---
 
