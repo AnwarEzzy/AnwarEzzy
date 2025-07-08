@@ -98,7 +98,7 @@ An interactive app that helps users learn and practice vocabulary in different l
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnwarEzzy&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnwarEzzy&show_icons=true&theme=react&count_private=true&cache_seconds=30" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnwarEzzy&theme=react" />
 </p>
 
