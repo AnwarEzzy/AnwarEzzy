@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anwar</h1>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5A80&center=true&vCenter=true&width=500&lines=Anwar+Ezzirani;Fullstack+Developer+from+Morocco;Always+learning+new+things+🚀" alt="Typing SVG" />
 <p align="center">
   💻 Full-Stack Developer • <img src="https://flagcdn.com/w40/ma.png" alt="Morocco" width="25"/> Morocco • 🚀 Passionate About Web & AI
 </p>
