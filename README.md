@@ -5,46 +5,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4F2CE9&center=true&width=435&lines=Hello+There;I'm+a+Software+Engineering+Student;Full-Stack++Web+Developer;Always+Learning+New+Technologies;Open+to+Freelance%2C+Internship%2C+Work" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td style="border: none;">
-        <a href="">
-          <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/tele-icon.png" width="50">
-        </a>
-      </td>
-      <td style="border: none;">
-        <a href="https://linkedin.com/in/votre_profil">
-          <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=linkedin&logoColor=white" width="50" height="50"/>
-        </a>
-      </td>
-      <td style="border: none;">
-        <a href="https://votre-site.com">
-          <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=google-chrome&logoColor=white" width="50" height="50"/>
-        </a>
-      </td>
-      <td style="border: none;">
-        <a href="https://twitter.com/votre_username">
-          <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=twitter&logoColor=white" width="50" height="50"/>
-        </a>
-      </td>
-      <td style="border: none;">
-        <a href="https://instagram.com/votre_username">
-          <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=instagram&logoColor=white" width="50" height="50"/>
-        </a>
-      </td>
-      <td style="border: none;">
-        <a href="https://discord.gg/votre_serveur">
-          <img src="[https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=discord&logoColor=white](https://img.icons8.com/?size=100&id=30888&format=png&color=000000)" width="50" height="50"/>
-        </a>
-      </td>
-      <td style="border: none;">
-        <a href="https://flickr.com/photos/votre_username">
-          <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=flickr&logoColor=white" width="50" height="50"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+  <a href="" target="_blank" style="margin: 0 10px;">
+    <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/tele-icon.png" width="50" alt="Contact me an email">
+  </a>
+  <a href="[Lien-Instagram]" target="_blank" style="margin: 0 10px;">
+    <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/instagram-icon.png" width="50" alt="Follow me on Instagram">
+  </a>
+  <a href="[Lien-Discord]" target="_blank" style="margin: 0 10px;">
+    <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/discord-icon.png" width="50" alt="Join me on Discord">
+  </a>
+  <a href="[Lien-LinkedIn]" target="_blank" style="margin: 0 10px;">
+    <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/linkedin-icon.png" width="50" alt="Connect with me">
+  </a>
+  <a href="[Lien-Twitter]" target="_blank" style="margin: 0 10px;">
+    <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/x-icon.png" width="50" alt="Follow me on twitter">
+  </a>
+</div>
 </div>
 
 <p align="center">
