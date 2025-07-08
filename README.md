@@ -6,39 +6,39 @@
 </p>
 
 <div align="center">
-  <table border=0>
+  <table style="border: none;">
     <tr>
-      <td>
+      <td style="border: none;">
         <a href="">
           <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/tele-icon.png" width="50">
         </a>
       </td>
-      <td>
+      <td style="border: none;">
         <a href="https://linkedin.com/in/votre_profil">
           <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=linkedin&logoColor=white" width="50" height="50"/>
         </a>
       </td>
-      <td>
+      <td style="border: none;">
         <a href="https://votre-site.com">
           <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=google-chrome&logoColor=white" width="50" height="50"/>
         </a>
       </td>
-      <td>
+      <td style="border: none;">
         <a href="https://twitter.com/votre_username">
           <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=twitter&logoColor=white" width="50" height="50"/>
         </a>
       </td>
-      <td>
+      <td style="border: none;">
         <a href="https://instagram.com/votre_username">
           <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=instagram&logoColor=white" width="50" height="50"/>
         </a>
       </td>
-      <td>
+      <td style="border: none;">
         <a href="https://discord.gg/votre_serveur">
           <img src="[https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=discord&logoColor=white](https://img.icons8.com/?size=100&id=30888&format=png&color=000000)" width="50" height="50"/>
         </a>
       </td>
-      <td>
+      <td style="border: none;">
         <a href="https://flickr.com/photos/votre_username">
           <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=flickr&logoColor=white" width="50" height="50"/>
         </a>
