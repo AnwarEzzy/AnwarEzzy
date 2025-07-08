@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anwar</h1>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5A80&center=true&vCenter=true&width=500&lines=Anwar+Ezzirani;Fullstack+Developer+from+Morocco;Always+learning+new+things+🚀" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F74292&center=true&width=435&lines=I'm+a+Software+Engineering+Student;Full-Stack++Web+Developer;Always+Learning+New+Things;Open+to+Freelance%2C+Internship%2C+Work" alt="Typing SVG" />
+</p>
+
 <p align="center">
   💻 Full-Stack Developer • <img src="https://flagcdn.com/w40/ma.png" alt="Morocco" width="25"/> Morocco • 🚀 Passionate About Web & AI
 </p>
