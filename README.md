@@ -1,10 +1,6 @@
 <!-- Nom animé (1 seule fois) -->
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap" rel="stylesheet">
-
 <p align="center">
-  <span style="color: #4F2CE9; font-family: 'Fira Code', monospace; font-size: 30px; font-weight: 500;">
-    Anwar Ezzirani
-  </span>
+  <img src="https://img.shields.io/badge/ANWAR_EZZIRANI-%234F2CE9?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&fontSize=40" alt="Nom" />
 </p>
 
 <!-- Texte animé -->
