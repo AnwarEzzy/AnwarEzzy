@@ -5,6 +5,48 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4F2CE9&center=true&width=435&lines=Hello+There;I'm+a+Software+Engineering+Student;Full-Stack++Web+Developer;Always+Learning+New+Technologies;Open+to+Freelance%2C+Internship%2C+Work" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://t.me/votre_username">
+          <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=telegram&logoColor=white" width="50" height="50"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://linkedin.com/in/votre_profil">
+          <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=linkedin&logoColor=white" width="50" height="50"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://votre-site.com">
+          <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=google-chrome&logoColor=white" width="50" height="50"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://twitter.com/votre_username">
+          <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=twitter&logoColor=white" width="50" height="50"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://instagram.com/votre_username">
+          <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=instagram&logoColor=white" width="50" height="50"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/votre_serveur">
+          <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=discord&logoColor=white" width="50" height="50"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://flickr.com/photos/votre_username">
+          <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=flickr&logoColor=white" width="50" height="50"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
   💻 Full-Stack Developer • <img src="https://flagcdn.com/w40/ma.png" alt="Morocco" width="25"/> Morocco • 🚀 Passionate About Web & AI
 </p>
