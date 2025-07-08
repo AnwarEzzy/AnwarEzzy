@@ -1,4 +1,4 @@
-<p style="font-family: 'Fira Code', monospace; font-size: 40px; color: #4F2CE9;">
+<p style="font-family: 'Fira Code', monospace; font-size: 40px; color: blue;">
     Open to Freelance, [Votre Prénom] [Votre Nom]
 </p>
 <!-- Texte animé -->
