@@ -1,6 +1,6 @@
 <!-- Nom animé (1 seule fois) -->
 <p align="center">
-  <span style="font-family: 'Fira Code', monospace; font-weight: 500; font-size: 30px; color: #F26D9E">
+  <span style="font-family: 'Fira Code', monospace; font-weight: 500; font-size: 30px; color: #4F2CE9; ">
     Anwar Ezzirani
   </span>
 </p>
