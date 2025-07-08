@@ -35,7 +35,7 @@
       </td>
       <td>
         <a href="https://discord.gg/votre_serveur">
-          <img src="https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=discord&logoColor=white" width="50" height="50"/>
+          <img src="[https://img.shields.io/badge/-FF0080?style=for-the-badge&logo=discord&logoColor=white](https://img.icons8.com/?size=100&id=30888&format=png&color=000000)" width="50" height="50"/>
         </a>
       </td>
       <td>
