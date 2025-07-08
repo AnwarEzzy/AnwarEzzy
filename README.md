@@ -6,21 +6,11 @@
 </p>
 
  <p align="center">
-  <a href="[Lien-Telegram]" target="_blank" style="margin: 0 50px;">
-    <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/tele-icon.png" width="50" alt="Contact me an email">
-  </a>
-  <a href="[Lien-Instagram]" target="_blank" style="margin: 0 50px;">
-    <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/instagram-icon.png" width="50" alt="Follow me on Instagram">
-  </a>
-  <a href="[Lien-Discord]" target="_blank" style="margin: 0 50px;">
-    <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/discord-icon.png" width="50" alt="Join me on Discord">
-  </a>
-  <a href="[Lien-LinkedIn]" target="_blank" style="margin: 0 25px;">
-    <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/linkedin-icon.png" width="50" alt="Connect with me">
-  </a>
-  <a href="[Lien-Twitter]" target="_blank" style="margin: 0 25px;">
-    <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/x-icon.png" width="50" alt="Follow me on twitter">
-  </a>
+  [![Telegram](https://github.com/AnwarEzzy/AnwarEzzy/raw/main/tele-icon.png)](https://t.me/votreprofil) &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Instagram](https://github.com/AnwarEzzy/AnwarEzzy/raw/main/instagram-icon.png)](https://instagram.com/votreprofil) &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Discord](https://github.com/AnwarEzzy/AnwarEzzy/raw/main/discord-icon.png)](https://discord.gg/votreinvite) &nbsp;&nbsp;&nbsp;&nbsp;
+  [![LinkedIn](https://github.com/AnwarEzzy/AnwarEzzy/raw/main/linkedin-icon.png)](https://linkedin.com/in/votreprofil) &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Twitter/X](https://github.com/AnwarEzzy/AnwarEzzy/raw/main/x-icon.png)](https://x.com/votreprofil)
 </p>
 
 <p align="center">
