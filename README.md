@@ -107,7 +107,7 @@ An interactive app that helps users learn and practice vocabulary in different l
 ## 🌐 Let's Connect
 
 - 📧 Email: [anwarezzirani224@gmail.com](mailto:anwarezzirani224@gmail.com)  
-- 💼 LinkedIn: [Click here](www.linkedin.com/in/anwar-ezzirani)  
+- 💼 LinkedIn: [Click here](https://www.linkedin.com/in/anwar-ezzirani)  
 
 ---
 
