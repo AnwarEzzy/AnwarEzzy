@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anwar</h1>
 <p align="center">
-  💻 Full-Stack Developer • 🌍 Based in Morocco • 🚀 Passionate About Web & AI
+  💻 Full-Stack Developer • 🇲🇦 Morocco • 🚀 Passionate About Web & AI
 </p>
 
 ---
