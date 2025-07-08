@@ -6,22 +6,21 @@
 </p>
 
   <div align="center" style="display: flex; justify-content: center; gap: 50px;">
-  <a href="" target="_blank" style="margin: 0 30px;">
+  <a href="" target="_blank">
     <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/tele-icon.png" width="50" alt="Contact me an email">
   </a>
-  <a href="[Lien-Instagram]" target="_blank" style="margin: 0 30px;">
+  <a href="[Lien-Instagram]" target="_blank">
     <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/instagram-icon.png" width="50" alt="Follow me on Instagram">
   </a>
-  <a href="[Lien-Discord]" target="_blank" style="margin: 0 30px;">
+  <a href="[Lien-Discord]" target="_blank">
     <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/discord-icon.png" width="50" alt="Join me on Discord">
   </a>
-  <a href="[Lien-LinkedIn]" target="_blank" style="margin: 0 30px;">
+  <a href="[Lien-LinkedIn]" target="_blank">
     <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/linkedin-icon.png" width="50" alt="Connect with me">
   </a>
-  <a href="[Lien-Twitter]" target="_blank" style="margin: 0 30px;">
+  <a href="[Lien-Twitter]" target="_blank">
     <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/x-icon.png" width="50" alt="Follow me on twitter">
   </a>
-</div>
 </div>
 
 <p align="center">
