@@ -1,13 +1,13 @@
 <!-- Nom animé (1 seule fois) -->
 <p align="center">
-  <span style="font-family: 'Fira Code', monospace; font-weight: 500; font-size: 30px; color: #F26D9E;">
+  <span style="font-family: 'Fira Code', monospace; font-weight: 500; font-size: 30px; color: #F26D9E">
     Anwar Ezzirani
   </span>
 </p>
 
 <!-- Texte animé -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F26D9E&center=true&width=435&lines=Hello+There;I'm+a+Software+Engineering+Student;Full-Stack++Web+Developer;Always+Learning+New+Technologies;Open+to+Freelance%2C+Internship%2C+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4F2CE9&center=true&width=435&lines=Hello+There;I'm+a+Software+Engineering+Student;Full-Stack++Web+Developer;Always+Learning+New+Technologies;Open+to+Freelance%2C+Internship%2C+Work" alt="Typing SVG" />
 </p>
 
 
