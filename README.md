@@ -9,10 +9,10 @@
   <a href="" target="_blank" style="margin: 0 10px;">
     <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/tele-icon.png" width="50" alt="Contact me an email">
   </a>
-  <a href="[Lien-Instagram]" target="_blank" style="margin: 0 10px;">
+  <a href="[Lien-Instagram]" target="_blank" style="margin: 0 30px;">
     <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/instagram-icon.png" width="50" alt="Follow me on Instagram">
   </a>
-  <a href="[Lien-Discord]" target="_blank" style="margin: 0 10px;">
+  <a href="[Lien-Discord]" target="_blank" style="margin: 0 30px;">
     <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/discord-icon.png" width="50" alt="Join me on Discord">
   </a>
   <a href="[Lien-LinkedIn]" target="_blank" style="margin: 0 10px;">
