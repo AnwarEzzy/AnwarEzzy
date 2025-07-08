@@ -10,7 +10,7 @@
     <tr>
       <td>
         <a href="">
-          ![Contact me in email](https://github.com/AnwarEzzy/AnwarEzzy/raw/main/tele-icon.png)
+          <img src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/tele-icon.png" width="400">
         </a>
       </td>
       <td>
