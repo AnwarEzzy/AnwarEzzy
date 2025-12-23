@@ -27,42 +27,6 @@
 - 🌱 Planning to specialize in **AI and Data Science** in the next academic year.
 - 💼 Open to freelance, internship, work, and collaboration opportunities
 
----
-
-## 🚀 Projects
-
-Here are some of my recent and notable projects:
-
-### 🏨 Hotel Reservation Management Platform  
-📅 *04/2025 – 06/2025*  
-A full-featured platform for hotel search, room booking, and admin control.  
-**Tech used:** ***Django, MySQL*** 
-🔗 [View project](https://github.com/AnwarEzzy/Hotel-management-app)
-
----
-
-### 💱 Currency Converter  
-📅 *02/2024*  
-A real-time currency converter using live exchange rates with a reactive UI.  
-**Tech used:** ***React.js***
-
----
-
-### 🧹 Home Services Booking Platform  
-📅 *04/2024 – 06/2024*  
-An intuitive web app for booking home services like gardening, cleaning, and repairs.  
-**Tech used:** ***React.js, Laravel***
-🔗 [View project](https://github.com/AnwarEzzy/home-services-app)
-
----
-
-### 🧩 Language Translation Game  
-📅 *05/2023*  
-An interactive app that helps users learn and practice vocabulary in different languages.  
-**Tech used:** ***HTML, CSS, JavaScript, jQuery***
-
----
-
 ## 🧰 Tech Stack
 
 ### 💻 Programming Languages  
@@ -123,9 +87,4 @@ An interactive app that helps users learn and practice vocabulary in different l
 
 ## 🌐 Let's Connect
 
-- 📧 Email: [anwarezzirani224@gmail.com](mailto:anwarezzirani224@gmail.com)  
 - 💼 LinkedIn: [Click here](https://www.linkedin.com/in/anwar-ezzirani)  
-
----
-
-_Thanks for visiting my GitHub profile! ⭐ Feel free to explore my projects and drop a star if you like them!_
