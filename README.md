@@ -22,14 +22,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student at EMSI**, with a strong passion for **Artificial Intelligence, Machine Learning, and Software Engineering**.
+I'm a Computer Engineering student at EMSI, currently interning as an **AI Engineer at Orange Maroc**, where I work on LLM-powered solutions, RAG pipelines, and AI agents for real business use cases.
 
-- 🧠 Focused on **LLMs, AI Agents, Retrieval-Augmented Generation (RAG)**, intelligent automation, and applied Machine Learning
-- 💻 Building intelligent applications by combining AI technologies with scalable, full-stack software engineering practices
-- 🛠️ Sharpened my skills through academic projects and internships tackling real-world engineering challenges
-- 🌱 Constantly learning emerging AI technologies and leveling up my technical expertise
-- 🎯 Goal: grow as an **AI Engineer** while leveraging my Full-Stack background to ship innovative, reliable, and impactful AI-powered solutions
-- 💼 Open to **internship (PFA), freelance, and collaboration** opportunities
+My background blends full-stack software engineering with a growing focus on applied AI — I like building things that are both technically solid and genuinely useful, whether that's a production-ready web platform or an AI agent that automates a real workflow. Along the way (through internships at OCP Group and 1337 Coding School, plus several personal projects) I've picked up a fairly broad toolkit: from React/Next.js and Laravel on the web side, to graph databases like Neo4j, to LLMs and RAG on the AI side.
+
+Right now I'm focused on deepening my AI Engineering skills while staying sharp on full-stack development — and I'm always open to internships, freelance work, and interesting collaborations.
+
+**🔭 Currently:** AI Engineering Intern @ Orange Maroc — LLMs, RAG & AI Agents
+**🌱 Learning:** Machine Learning, Deep Learning, and applied AI engineering
+**💼 Open to:** Internships (PFA), freelance work, and collaboration
 
 ## 🧰 Tech Stack
 
