@@ -13,7 +13,7 @@
 	</a>
 	&emsp;
 	<a target="_blank" href="https://x.com/AEzzirani">
-		<img width="60px" alt="X" title="Follow me on X" src="https://raw.githubusercontent.com/AnwarEzzy/AnwarEzzy/main/static/social-icons/twitter.webp"/>
+		<img width="60px" alt="X" title="Follow me on X" src="https://cdn.simpleicons.org/x/2F81F7"/>
 	</a>
 	&emsp;
 	<a target="_blank" href="https://www.instagram.com/anwar_ezzi">
