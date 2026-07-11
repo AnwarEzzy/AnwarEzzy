@@ -21,7 +21,7 @@
 	</a>
 	&emsp;
 	<a target="_blank" href="https://discord.gg/4WFDTpHDtw">
-		<img width="60px" alt="Discord" title="Join me on Discord" src="https://raw.githubusercontent.com/AnwarEzzy/AnwarEzzy/main/static/social-icons/discord.webp"/>
+		<img width="60px" alt="Discord" title="Join me on Discord" src="https://cdn.simpleicons.org/discord/2F81F7"/>
 	</a>
 </p>
 
