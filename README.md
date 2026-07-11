@@ -13,11 +13,9 @@
 	<a target="_blank" href="https://x.com/AEzzirani">
 		<img width="60px" alt="X" title="Follow me on X" src="static/social-icons/twitter.webp"/>
 	</a>
-	
 	<a target="_blank" href="https://www.instagram.com/anwar_ezzi">
 		<img width="60px" alt="Instagram" title="Follow me on Instagram" src="static/social-icons/instagram.webp"/>
 	</a>
-	
 	<a target="_blank" href="https://discord.gg/4WFDTpHDtw">
 		<img width="60px" alt="Discord" title="Join me on Discord" src="static/social-icons/discord.webp"/>
 	</a>
