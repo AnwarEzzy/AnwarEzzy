@@ -4,25 +4,15 @@
 </p>
 
 <p align="center">
-	<a target="_blank" href="mailto:anwar.ezzirani69@gmail.com">
-		<img width="60px" alt="Email" title="Send me an email" src="static/social-icons/mail.webp"/>
-	</a>
+	<a target="_blank" href="mailto:anwar.ezzirani69@gmail.com"><img width="60px" alt="Email" title="Send me an email" src="static/social-icons/mail.webp"/></a>
 	&emsp;
-	<a target="_blank" href="https://www.linkedin.com/in/anwar-ezzirani/">
-		<img width="60px" alt="LinkedIn" title="Connect with me" src="static/social-icons/linkedin.webp"/>
-	</a>
+	<a target="_blank" href="https://www.linkedin.com/in/anwar-ezzirani/"><img width="60px" alt="LinkedIn" title="Connect with me" src="static/social-icons/linkedin.webp"/></a>
 	&emsp;
-	<a target="_blank" href="https://x.com/AEzzirani">
-		<img width="60px" alt="X" title="Follow me on X" src="static/social-icons/twitter.webp"/>
-	</a>
+	<a target="_blank" href="https://x.com/AEzzirani"><img width="60px" alt="X" title="Follow me on X" src="static/social-icons/twitter.webp"/></a>
 	&emsp;
-	<a target="_blank" href="https://www.instagram.com/anwar_ezzi">
-		<img width="60px" alt="Instagram" title="Follow me on Instagram" src="static/social-icons/instagram.webp"/>
-	</a>
+	<a target="_blank" href="https://www.instagram.com/anwar_ezzi"><img width="60px" alt="Instagram" title="Follow me on Instagram" src="static/social-icons/instagram.webp"/></a>
 	&emsp;
-	<a target="_blank" href="https://discord.gg/4WFDTpHDtw">
-		<img width="60px" alt="Discord" title="Join me on Discord" src="static/social-icons/discord.webp"/>
-	</a>
+	<a target="_blank" href="https://discord.gg/4WFDTpHDtw"><img width="60px" alt="Discord" title="Join me on Discord" src="static/social-icons/discord.webp"/></a>
 </p>
 
 <picture>
