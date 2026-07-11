@@ -17,7 +17,7 @@
 	</a>
 	&emsp;
 	<a target="_blank" href="https://www.instagram.com/anwar_ezzi">
-		<img width="60px" alt="Instagram" title="Follow me on Instagram" src="https://raw.githubusercontent.com/AnwarEzzy/AnwarEzzy/main/static/social-icons/instagram.webp"/>
+		<img width="60px" alt="Instagram" title="Follow me on Instagram" src="https://cdn.simpleicons.org/instagram/2F81F7"/>
 	</a>
 	&emsp;
 	<a target="_blank" href="https://discord.gg/4WFDTpHDtw">
