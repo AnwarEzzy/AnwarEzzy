@@ -4,25 +4,11 @@
 </p>
 
 <p align="center">
-	<a target="_blank" href="mailto:anwar.ezzirani69@gmail.com">
-		<img width="50px" alt="Email" title="Send me an email" src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/tele-icon.png"/>
-	</a>
-	&emsp;
-	<a target="_blank" href="https://www.linkedin.com/in/anwar-ezzirani/">
-		<img width="50px" alt="Linkedin" title="Connect with me" src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/linkedin-icon.png"/>
-	</a>
-	&emsp;
-	<a target="_blank" href="https://x.com/AEzzirani">
-		<img width="50px" alt="Twitter" title="Follow me on X" src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/x-icon.png"/>
-	</a>
-	&emsp;
-	<a target="_blank" href="https://www.instagram.com/anwar_ezzi">
-		<img width="50px" alt="Instagram" title="Follow me on Instagram" src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/instagram-icon.png"/>
-	</a>
-	&emsp;
-	<a target="_blank" href="https://discord.gg/4WFDTpHDtw">
-		<img width="50px" alt="Discord" title="Join me on Discord" src="https://github.com/AnwarEzzy/AnwarEzzy/raw/main/discord-icon.png"/>
-	</a>
+	<a href="mailto:anwar.ezzirani69@gmail.com"><img src="https://img.shields.io/badge/Gmail-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/anwar-ezzirani/"><img src="https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://x.com/AEzzirani"><img src="https://img.shields.io/badge/X-2F81F7?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+	<a href="https://www.instagram.com/anwar_ezzi"><img src="https://img.shields.io/badge/Instagram-2F81F7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://discord.gg/4WFDTpHDtw"><img src="https://img.shields.io/badge/Discord-2F81F7?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 <picture>
