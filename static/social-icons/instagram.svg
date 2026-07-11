@@ -1,0 +1,9 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="1.8s" begin="0.3s" repeatCount="indefinite"/>
+    <circle cx="32" cy="32" r="30" fill="#2F81F7"/>
+    <rect x="18" y="18" width="28" height="28" rx="8" fill="none" stroke="#ffffff" stroke-width="3"/>
+    <circle cx="32" cy="32" r="7" fill="none" stroke="#ffffff" stroke-width="3"/>
+    <circle cx="41" cy="23" r="2" fill="#ffffff"/>
+  </g>
+</svg>
