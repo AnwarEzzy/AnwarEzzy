@@ -21,9 +21,9 @@
 
 ## About
 <p align="left">
-A mind wired for AI, a heart driven by curiosity, and a passion for transforming data into impact.
+A mind fueled by innovation, a curiosity that never stops, and a passion for building intelligent solutions from data.
 <br>
-Exploring patterns, predicting possibilities, and engineering intelligence — one model at a time.
+Turning complex problems into AI-driven insights — one model, one solution at a time.
 <br>
 
 ```python
