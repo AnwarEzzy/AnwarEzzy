@@ -4,11 +4,25 @@
 </p>
 
 <p align="center">
-	<a href="mailto:anwar.ezzirani69@gmail.com"><img src="https://img.shields.io/badge/Gmail-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/anwar-ezzirani/"><img src="https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://x.com/AEzzirani"><img src="https://img.shields.io/badge/X-2F81F7?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-	<a href="https://www.instagram.com/anwar_ezzi"><img src="https://img.shields.io/badge/Instagram-2F81F7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://discord.gg/4WFDTpHDtw"><img src="https://img.shields.io/badge/Discord-2F81F7?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+	<a target="_blank" href="mailto:anwar.ezzirani69@gmail.com">
+		<img width="60px" alt="Email" title="Send me an email" src="static/social-icons/mail.svg"/>
+	</a>
+	&emsp;
+	<a target="_blank" href="https://www.linkedin.com/in/anwar-ezzirani/">
+		<img width="60px" alt="LinkedIn" title="Connect with me" src="static/social-icons/linkedin.svg"/>
+	</a>
+	&emsp;
+	<a target="_blank" href="https://x.com/AEzzirani">
+		<img width="60px" alt="X" title="Follow me on X" src="static/social-icons/x.svg"/>
+	</a>
+	&emsp;
+	<a target="_blank" href="https://www.instagram.com/anwar_ezzi">
+		<img width="60px" alt="Instagram" title="Follow me on Instagram" src="static/social-icons/instagram.svg"/>
+	</a>
+	&emsp;
+	<a target="_blank" href="https://discord.gg/4WFDTpHDtw">
+		<img width="60px" alt="Discord" title="Join me on Discord" src="static/social-icons/discord.svg"/>
+	</a>
 </p>
 
 <picture>
@@ -55,3 +69,7 @@ if __name__ == '__main__':
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=AnwarEzzy&theme=tokyonight" />
 </div>
+
+<p>
+    <img alt="footer" src="./static/footer.svg">
+</p>
