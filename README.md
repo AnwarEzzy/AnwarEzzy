@@ -5,7 +5,7 @@
 
 <p align="center">
 	<a target="_blank" href="mailto:anwar.ezzirani69@gmail.com">
-		<img width="60px" alt="Email" title="Send me an email" src="https://raw.githubusercontent.com/AnwarEzzy/AnwarEzzy/main/static/social-icons/mail.webp"/>
+		<img width="60px" alt="Email" title="Send me an email" src="https://cdn.simpleicons.org/gmail/2F81F7"/>
 	</a>
 	&emsp;
 	<a target="_blank" href="https://www.linkedin.com/in/anwar-ezzirani/">
