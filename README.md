@@ -8,7 +8,7 @@
 	&emsp;
 	<a target="_blank" href="https://www.linkedin.com/in/anwar-ezzirani/"><img width="60px" alt="LinkedIn" title="Connect with me" src="static/social-icons/linkedin.webp"/></a>
 	&emsp;
-	<a target="_blank" href="https://x.com/AEzzirani"><img width="60px" alt="X" title="Follow me on X" src="https://cdn.simpleicons.org/x/2F81F7?v=2"/></a>
+	<a target="_blank" href="https://x.com/AEzzirani"><img width="60px" alt="X" title="Follow me on X" src="static/social-icons/twitter.webp"/></a>
 	&emsp;
 	<a target="_blank" href="https://www.instagram.com/anwar_ezzi"><img width="60px" alt="Instagram" title="Follow me on Instagram" src="static/social-icons/instagram.webp"/></a>
 	&emsp;
