@@ -38,6 +38,7 @@ class AnwarEzzirani:
         self.full_name = 'Anwar Ezzirani'
         self.username = '@AnwarEzzy'
         self.role = 'AI Engineering Intern @ Orange Maroc'
+		self.education = "Computer Engineering Student @ EMSI"
 
         # find me
         self.linkedin = 'linkedin.com/in/anwar-ezzirani/'
