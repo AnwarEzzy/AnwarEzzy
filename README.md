@@ -8,19 +8,19 @@
 		<img width="60px" alt="Email" title="Send me an email" src="https://cdn.simpleicons.org/gmail/2F81F7"/>
 	</a>
 	&emsp;
-	<a target="_blank" href="https://www.linkedin.com/in/anwar-ezzirani/">
+	<a target="_blank" href="https://www.linkedin.com/in/anwar-ezzirani/" style="text-decoration: none;">
 		<img width="60px" alt="LinkedIn" title="Connect with me"  src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg"/>
 	</a>
 	&emsp;
-	<a target="_blank" href="https://x.com/AEzzirani">
+	<a target="_blank" href="https://x.com/AEzzirani" style="text-decoration: none;">
 		<img width="60px" alt="X" title="Follow me on X" src="https://cdn.simpleicons.org/x/2F81F7"/>
 	</a>
 	&emsp;
-	<a target="_blank" href="https://www.instagram.com/anwar_ezzi">
+	<a target="_blank" href="https://www.instagram.com/anwar_ezzi" style="text-decoration: none;">
 		<img width="60px" alt="Instagram" title="Follow me on Instagram" src="https://cdn.simpleicons.org/instagram/2F81F7"/>
 	</a>
 	&emsp;
-	<a target="_blank" href="https://discord.gg/4WFDTpHDtw">
+	<a target="_blank" href="https://discord.gg/4WFDTpHDtw" style="text-decoration: none;">
 		<img width="60px" alt="Discord" title="Join me on Discord" src="https://cdn.simpleicons.org/discord/2F81F7"/>
 	</a>
 </p>
