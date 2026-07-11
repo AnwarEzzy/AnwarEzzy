@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-   Full-Stack Developer • <img src="https://flagcdn.com/w40/ma.png" alt="Morocco" width="25"/> Morocco •  Passionate About AI & Web
+   Full-Stack Developer  •  Morocco  •  Passionate About AI & Web
 </p>
 
 ---
