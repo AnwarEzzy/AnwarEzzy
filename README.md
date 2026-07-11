@@ -9,7 +9,7 @@
 	</a>
 	&emsp;
 	<a target="_blank" href="https://www.linkedin.com/in/anwar-ezzirani/">
-		<img width="60px" alt="LinkedIn" title="Connect with me" src="https://raw.githubusercontent.com/AnwarEzzy/AnwarEzzy/main/static/social-icons/linkedin.webp"/>
+		<img width="60px" alt="LinkedIn" title="Connect with me" src="https://cdn.simpleicons.org/linkedin/2F81F7"/>
 	</a>
 	&emsp;
 	<a target="_blank" href="https://x.com/AEzzirani">
