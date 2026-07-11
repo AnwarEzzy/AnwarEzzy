@@ -4,22 +4,24 @@
 </p>
 
 <p align="center">
-	<a target="_blank" href="mailto:anwar.ezzirani69@gmail.com" style="text-decoration: none;"><img width="60px" alt="Email" title="Send me an email" src="https://cdn.simpleicons.org/gmail/2F81F7"/></a>
-	&emsp;
-	<a target="_blank" href="https://www.linkedin.com/in/anwar-ezzirani/" style="text-decoration: none;">
-		<img width="60px" alt="LinkedIn" title="Connect with me"  src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg"/>
+	<a target="_blank" href="mailto:anwar.ezzirani69@gmail.com">
+		<img width="60px" alt="Email" title="Send me an email" src="static/social-icons/mail.webp"/>
 	</a>
 	&emsp;
-	<a target="_blank" href="https://x.com/AEzzirani" style="text-decoration: none;">
-		<img width="60px" alt="X" title="Follow me on X" src="https://cdn.simpleicons.org/x/2F81F7"/>
+	<a target="_blank" href="https://www.linkedin.com/in/anwar-ezzirani/">
+		<img width="60px" alt="LinkedIn" title="Connect with me" src="static/social-icons/linkedin.webp"/>
 	</a>
 	&emsp;
-	<a target="_blank" href="https://www.instagram.com/anwar_ezzi" style="text-decoration: none;">
-		<img width="60px" alt="Instagram" title="Follow me on Instagram" src="https://cdn.simpleicons.org/instagram/2F81F7"/>
+	<a target="_blank" href="https://x.com/AEzzirani">
+		<img width="60px" alt="X" title="Follow me on X" src="static/social-icons/twitter.webp"/>
 	</a>
 	&emsp;
-	<a target="_blank" href="https://discord.gg/4WFDTpHDtw" style="text-decoration: none;">
-		<img width="60px" alt="Discord" title="Join me on Discord" src="https://cdn.simpleicons.org/discord/2F81F7"/>
+	<a target="_blank" href="https://www.instagram.com/anwar_ezzi">
+		<img width="60px" alt="Instagram" title="Follow me on Instagram" src="static/social-icons/instagram.webp"/>
+	</a>
+	&emsp;
+	<a target="_blank" href="https://discord.gg/4WFDTpHDtw">
+		<img width="60px" alt="Discord" title="Join me on Discord" src="static/social-icons/discord.webp"/>
 	</a>
 </p>
 
@@ -31,7 +33,7 @@
 
 ---
 
-## 👨🏻‍🎓 About
+## About
 <p align="left">
 A mind fueled by innovation, a curiosity that never stops, and a passion for building intelligent solutions from data.
 <br>
@@ -62,7 +64,7 @@ if __name__ == '__main__':
     me = AnwarEzzirani()
 ```
 
-## 📊 Profile stat
+## Profile stat
 <br />
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=AnwarEzzy&theme=tokyonight" />
