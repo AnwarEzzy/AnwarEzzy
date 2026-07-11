@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-	<a target="_blank" href="mailto:anwar.ezzirani69@gmail.com">
+	<a target="_blank" href="mailto:anwar.ezzirani69@gmail.com" style="text-decoration: none;">
 		<img width="60px" alt="Email" title="Send me an email" src="https://cdn.simpleicons.org/gmail/2F81F7"/>
 	</a>
 	&emsp;
