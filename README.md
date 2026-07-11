@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-	<a target="_blank" href="mailto:anwar.ezzirani69@gmail.com" style="text-decoration: none;">
-		<img width="60px" alt="Email" title="Send me an email" src="https://cdn.simpleicons.org/gmail/2F81F7"/>
-	</a>
+	<a target="_blank" href="mailto:anwar.ezzirani69@gmail.com" style="text-decoration: none;"><img width="60px" alt="Email" title="Send me an email" src="https://cdn.simpleicons.org/gmail/2F81F7"/></a>
 	&emsp;
 	<a target="_blank" href="https://www.linkedin.com/in/anwar-ezzirani/" style="text-decoration: none;">
 		<img width="60px" alt="LinkedIn" title="Connect with me"  src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg"/>
