@@ -33,7 +33,7 @@
 
 ---
 
-## About
+## 👨🏻‍🎓 About
 <p align="left">
 A mind fueled by innovation, a curiosity that never stops, and a passion for building intelligent solutions from data.
 <br>
@@ -64,7 +64,7 @@ if __name__ == '__main__':
     me = AnwarEzzirani()
 ```
 
-## Profile stat
+## 📊 Profile stat
 <br />
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=AnwarEzzy&theme=tokyonight" />
