@@ -32,9 +32,9 @@
 
 ## 👨🏻‍🎓 About
 <p align="left">
-A mind fueled by innovation, a curiosity that never stops, and a passion for building intelligent solutions from data.
+Passionate about building practical AI-driven solutions and turning data into meaningful applications.
 <br>
-Turning complex problems into AI-driven insights — one model, one solution at a time.
+Curious by nature, I enjoy exploring new technologies, solving complex problems, and learning by building.
 <br>
 
 ```python
