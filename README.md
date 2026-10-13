@@ -52,7 +52,7 @@ class AnwarEzzirani:
         self.twitter = '@AEzzirani'
         self.email = 'anwar.ezzirani69@gmail.com'
 
-        self.areas = ['Machine Learning', 'LLMs', 'RAG', 'AI Agents', 'Full-Stack Development']
+        self.areas = ["Machine Learning","Data Science","LLMs","RAG","AI Agents","NLP","Data Engineering"]
 
     def __str__(self):
         return self.full_name
