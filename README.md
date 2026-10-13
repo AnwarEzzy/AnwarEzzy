@@ -44,8 +44,8 @@ class AnwarEzzirani:
         # who am I ?
         self.full_name = 'Anwar Ezzirani'
         self.username = '@AnwarEzzy'
-        self.role = 'AI Engineering Intern @ Orange Maroc'
-		self.education = "Computer Engineering Student @ EMSI"
+        self.role = "Aspiring AI & Machine Learning Engineer"
+        self.education = "Final-Year Computer Engineering Student @ EMSI | Data Science & Artificial Intelligence"
 
         # find me
         self.linkedin = 'linkedin.com/in/anwar-ezzirani/'
