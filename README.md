@@ -1,6 +1,13 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1&pause=1000&color=2F81F7&center=true&vCenter=true&repeat=false&width=556&height=64&lines=Anwar+Ezzirani" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=556&height=64&lines=Hello+There+%F0%9F%91%8B%F0%9F%8F%BB;Aspiring+AI+%26+ML+Engineer;Full-Stack+Developer;Always+learning+new+technologies" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;duration=1&amp;pause=1000&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=650&amp;height=64&amp;lines=Anwar+Ezzirani" alt="Anwar Ezzirani" />
+  </a>
+
+  <br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;pause=1000&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=64&amp;lines=AI+%26+Machine+Learning+Engineer;Data+Science+%26+Generative+AI;LLMs+%7C+RAG+%7C+AI+Agents;Building+Intelligent+Applications" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
